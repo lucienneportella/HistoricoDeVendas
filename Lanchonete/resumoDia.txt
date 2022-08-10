@@ -1,0 +1,14 @@
+Data: 2022/08/10 16:56:52
+Cachorro quente : 8.0
+Total R$: 8.0
+X-Bacon : 25.0
+Total R$: 33.0
+X-Salada : 13.5
+Total R$: 46.5
+Data: 2022/08/10 16:57:11
+X-Salada : 13.5
+Total R$: 13.5
+Torrada simples : 2.0
+Total R$: 15.5
+Refrigerante : 3.0
+Total R$: 18.5
